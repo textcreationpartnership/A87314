@@ -1,0 +1,283 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Irelands excise, by the Lords, Iustices, and councell there. As it was given at His Maiesties castle in Dublin 24. Iune, 1643.</title>
+            <author>Ireland. Lords Justices and Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87314</idno>
+            <idno type="STC">Wing I418A</idno>
+            <idno type="STC">Thomason E62_10</idno>
+            <idno type="STC">ESTC R8276</idno>
+            <idno type="EEBO-CITATION">99873261</idno>
+            <idno type="PROQUEST">99873261</idno>
+            <idno type="VID">155361</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87314)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155361)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E62[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Irelands excise, by the Lords, Iustices, and councell there. As it was given at His Maiesties castle in Dublin 24. Iune, 1643.</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F. Leach, for Michaell Sparke senior, and iunior,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1643. Iuly 29.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Beer --  Taxation --  Ireland --  Early works to 1800.</term>
+               <term>Wine and wine making --  Taxation --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155361:1"/>
+            <pb facs="tcp:155361:1" rendition="simple:additions"/>
+            <p>IRELANDS EXCISE, BY The Lords, Iuſtices, and Councell there.</p>
+            <p>As it was Given at his Maieſties Caſtle in <hi>Dublin</hi> 24. <hi>Iune,</hi> 1643.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>F. Leach,</hi> for <hi>Michaell Sparke Senior,</hi> and <hi>Iunior, Anno Dom.</hi> 1643. <hi>Iuly</hi> 29.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:155361:2"/>
+            <head>IRELADS EXCISE, BY The Lords, Iuſtices and Councell there.</head>
+            <opener>
+               <salute>Io. Borlaſe. Hen. Tichborne.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E having taken into our ſerious conſideration the preſent State and condition of this Kingdome, doe by this Our Proclamation in pur<g ref="char:EOLhyphen"/>ſuance of an Act of Councell made at this Board, bearing date 6. of <hi>Iune</hi> 1643. Publiſh and Declare that for the reaſons in the ſaid Act of Councell conteined<g ref="char:punc">▪</g> and<g ref="char:punc">▪</g> for the raiſing of a Summe of mo<g ref="char:EOLhyphen"/>ney weekely, towards the maintenance of the Army for ſix Moneths next enſuing, that there be during the time aforeſaid (if the neceſſities of the Army be not in the interim otherwiſe releeved) a rate and impoſition ſet upon the particulars hereafter mentioned, in manner and forme hereafter expreſſed, to be duly paid unto <hi>Thomas Leigh, Daniel Foſter,</hi> and <hi>Iohn Wogan,</hi> Gentlemen; upon whom We have for the preſent conferred the Office of Impoſt-maſters, or to ſuch as ſhall be lawfully Authorized to be the Impoſt-maſters, and at the Office appoin<g ref="char:EOLhyphen"/>ted to be keept at the Houſe of <hi>Henry King</hi> in Caſtle-ſtreet for the Impoſt Office, by ſuch perſons &amp; in ſuch manner as hereafter is Declared and that the Monies ari<g ref="char:EOLhyphen"/>ſing thereupon bee weekely paid by the ſaid Impoſt-maſters, unto His Majeſties Vice-Treaſurer and Treaſurer at Wars, to be by Him iſſued towards the reliefe of the Army, in ſuch manner and forme as by Vs the Lords, Iuſtices and Councell ſhall be directed.</p>
+            <p>
+               <hi>The rate or impoſition upon Ale or Beare bought of the Brewer, to be retailed or brought from forraigne Countries into this Kingdome, and bought here to be retai<g ref="char:EOLhyphen"/>led,</hi>
+               <pb n="3" facs="tcp:155361:2"/>viz. <hi>Ale and Beare of ſixteene ſhillings or eighteene ſhillings per Barrell, to pay eight ſhillings Impoſition per Barrell and ſo rateably for other gages, and to be retai<g ref="char:EOLhyphen"/>led at three pence per Quart, and no more.</hi>
+            </p>
+            <p>
+               <hi>Beere of eight ſhillings or ten ſhillings per Barrell, to pay five ſhillings Impoſition per Barrell, and ſo rateably for other gages, and to be retailed at two pence per Quart, and no more.</hi>
+            </p>
+            <p>
+               <hi>Beere of five ſhillings or ſix ſhillings per Barrell, to pay three ſhillings Impoſition per Barrell, and ſo rateably for other gages, and to be retailed at one penny per Quart, and no more.</hi>
+            </p>
+            <p>
+               <hi>The Rate or Impoſition of Ale or Beere ſpent in any private Houſe, whether the ſame be brewed by the perſons themſelves that ſpend it, or bought from the Brewers, of forraigne parts,</hi> viz.</p>
+            <p>
+               <hi>Ale or Beere of ſixteene ſhillings or eighteen ſhillings per Barrell, to pay foure ſhil<g ref="char:EOLhyphen"/>lings Impoſition per Barrell, and ſo rateably for other gages.</hi>
+            </p>
+            <p>
+               <hi>Beere of eight ſhillings or ten ſhillings per Barrell, to pay two ſhillings Impoſition per Barrell, and ſo rateably for other gages.</hi>
+            </p>
+            <p>
+               <hi>Beere of five ſhillings or ſix ſhillings per Barrell, to pay twelve pence Impoſition per Barrell, and ſo rateably for other gages.</hi>
+            </p>
+            <p>
+               <hi>The Rate or Impoſition of Ale or Beere to be retailed by them that brew it,</hi> viz. <hi>All manner of ſtrong Ale or Beere to pay ten ſhillings impoſition per Barrell, and ſo rateably for other gages, and to be ſold at three pence per Quart, and no more.</hi>
+            </p>
+            <p>
+               <hi>All Ordinary Ale or Beere to pay three ſhillings foure pence Impoſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion per Bar<g ref="char:EOLhyphen"/>rell, and ſo rateably for other gages, to be ſold a penny per Quart, and no more.</hi>
+            </p>
+            <p>
+               <hi>The Rate or Impoſition upon Wines bought to be ſold againe by retaile,</hi> viz. <hi>All manner of French Wines rackt or unrackt, to pay ſix pounds Impoſition pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tonne, accounting foure Hogſheads to the Tonne and all other ſmaller gages rateably, and to be retailed at eight pence per Quart, and no more.</hi>
+            </p>
+            <p>
+               <hi>All Wines of the Spaniſh growth rackt or unrackt, to pay ſix pound Impoſition per Pipe or But, and all other ſmaller gages rateably, and to be retailed at one ſhilling foure pence per Quart, and no more.</hi>
+            </p>
+            <p>
+               <hi>The Rate or Impoſition upon Wines bought or brought into private Houſes for their owne uſes,</hi> viz. <hi>All manner of French Wines rackt or unrackt, to pay three pound Impoſition per Tonne, accounting foure Hogſheads to the Tonne, and all other gages rateably.</hi>
+            </p>
+            <p>
+               <hi>All Wine of the Spaniſh growth rackt or unrackt, to pay three pound Impoſition per Pipe or But, and all other ſmaller gages rateably.</hi>
+            </p>
+            <p>
+               <hi>The Rate or impoſition upon Aquavitae and all manner of Hot waters</hi> viz. <hi>Aqua<g ref="char:EOLhyphen"/>vitae and all Hot waters bought or ſould to be retailed againe, to pay two ſhillings Im<g ref="char:EOLhyphen"/>poſition per Gallon.</hi>
+            </p>
+            <p>
+               <hi>Aquavitae and all Hot waters bought or ſold by or to any that ſhall not retaile the ſame againe to pay</hi> 12, <hi>pence impoſition per Gallon.</hi>
+            </p>
+            <p>
+               <hi>The Rate or Impoſition upon Cattle ſlaughtered to be ſold,</hi> viz.</p>
+            <pb n="4" facs="tcp:155361:3"/>
+            <p>
+               <hi>All manner of Oxen, Balls, Cowes, Steers, and Bullocks, to pay</hi> 4. <hi>ſhillings le peece Impoſition.</hi>
+            </p>
+            <p>
+               <hi>All Calves to pay two ſhillings le peece Impoſition.</hi>
+            </p>
+            <p>
+               <hi>All Swine<g ref="char:punc">▪</g> above ſix weeks old, and all Sheepe, and Goats, to pay twelve pence le peece Impoſition.</hi>
+            </p>
+            <p>
+               <hi>All Lambs, and Kidds to pay ſix pence le peece Impoſition.</hi>
+            </p>
+            <p>
+               <hi>The Rate and Impoſition of Cattle, ſlaughtered by any to Salt up for their owne uſes, or to eate or ſpend freſh in their owne Houſes,</hi> viz. <hi>All manner of Oxon, Bulls Cowes. Steeres and Bullocks, to pay two ſhillings le peece Impoſition.</hi>
+            </p>
+            <p>
+               <hi>All Calves to pay</hi> 12 <hi>pence le peece Impoſition. All Swine above</hi> 6. <hi>weeks old, and all Sheepe, and Goats to pay</hi> 6. <hi>pence le peece Impoſition.</hi>
+            </p>
+            <p>
+               <hi>All Lambs, and Kidds to pay three pence le peece Impoſition.</hi>
+            </p>
+            <p n="1">1. And for the better performance, and due execution of all and ſingular the pre<g ref="char:EOLhyphen"/>miſes. We doe hereby in his Majeſties name, ſtrictly Charge and command, that from and after the publiſhing of this Proclamation no manner of perſon or perſons whatſoever, within liberties or without, doe brew <hi>Ale or Beere,</hi> or diſtill <hi>Aqua<g ref="char:EOLhyphen"/>vitae,</hi> or any hot waters whithin the Citty or Suburbs of <hi>Dublin,</hi> or 6 miles of the ſaid City, untill ſuch time as he, or they firſt enter his and their names at the ſaid Impoſt Office and there receive admittance to brew <hi>Ale</hi> and <hi>Beere,</hi> or to diſtill <hi>Aquavitae,</hi> and hot waters upon paine of five pounds.</p>
+            <p n="2">2. That every Brewer of <hi>Ale</hi> or <hi>Beere,</hi> and every diſtiller of <hi>Aquavitae,</hi> and hot waters, from and after ſuch admittance keepe an exact Account of the Quality, and Quantity of all the <hi>Beere, Ale, Aquavitae</hi> and hot Waters, he or they ſhall Brew or Diſtill, upon paine of <hi>five Pounds</hi> for every <hi>Brewing,</hi> or Diſtilling where<g ref="char:EOLhyphen"/>of he ſhall neglect to keepe ſuch account.</p>
+            <p n="3">3. That no Brewer, Brew any other Sorts of <hi>Ale,</hi> or <hi>Beere,</hi> then <hi>Ale</hi> or <hi>Beere</hi> of 18. <hi>ſhillings,</hi> 16. <hi>ſhillings,</hi> 10. <hi>ſhillings,</hi> 8. <hi>ſhillings. Six ſhillings,</hi> or <hi>Five ſhillings</hi> the Barrell, upon the like paine of <hi>five pounds,</hi> for every time, he ſhall Brew any other ſort of <hi>Ale,</hi> or <hi>Beare.</hi>
+            </p>
+            <p n="4">4. That no Brewer of <hi>Ale</hi> or <hi>Beare,</hi> do diſpoſe, ſell, or any wayes ſuffer any <hi>Ale,</hi> or <hi>Beere</hi> to goe forth of his Houſe other then ſuch <hi>Ale,</hi> or <hi>Beere,</hi> as he ſhall retaile by the Gallon, or a leſſer meaſure, before the Impoſt thereof be paid, and a Ballet for the payment thereof; and of the true quality and quantity of the ſaid <hi>Ale</hi> or <hi>Beere</hi> delivered him or his Clarke, out of the ſaid Impoſt office, upon paine of 3. <hi>Pound</hi> for every Barrell ſo delivered for the firſt Offence, and 6. <hi>Pounds,</hi> for e<g ref="char:EOLhyphen"/>very Barrell ſo delivered for the <hi>Second</hi> Offence, and 10. <hi>Pounds,</hi> for every Barell ſo delivered for the <hi>third</hi> Offence.</p>
+            <p n="5">5. That no perſon or perſons whatſoever receive, or cauſe to be received into his or any other Houſe any <hi>Beere,</hi> or <hi>Ale</hi> untill ſuch time as the impoſt thereof be paid, and a Billet obtained from the Impoſt Office of the true quality and quantity of the ſaid <hi>Ale,</hi> and <hi>Beere,</hi> and for the payment of the Impoſt for the ſame <hi>Ale</hi> and <hi>Beere,</hi> upon paine of three pound for every Barrell ſo received for the firſt of<g ref="char:EOLhyphen"/>fence,
+<pb n="5" facs="tcp:155361:3"/>and ſix pounds a Barrell ſo received for the ſecond offence, and ten pounds a Barrell ſo received for the third offence.</p>
+            <p n="6">6. That every Brewer of Ale or Beere, that retailes any Ale or Beere in his owne houſe, or any other houſe, doe within twenty foure houres after the Tonning of his Beere or Ale, enter or cauſe to be entred the full proportion, quality and quantity thereof in the ſaid Impoſt-office, and there pay the Impoſt for the ſame, upon paine of 3. pound <hi>per</hi> Barrell for the firſt offence, and ſix pounds <hi>per</hi> Barrell for the ſecond offence, and ten pounds <hi>per</hi> Barrell for the third offence.</p>
+            <p n="7">7. That all private Houſe-keepers of what degree or quality ſoever they be, ſhall within twenty foure houres after the Tonning of their Beere or Ale which they ſhall b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew, enter, or cauſe to be entered the full proportion, quality, and quan<g ref="char:EOLhyphen"/>tity thereof in the ſaid Impoſt-office, and pay the moſt for the ſame upon paine of thirty ſhillings for every Barrell ſo Tonned for the firſt offence, and fifty ſhillings for every Barrell ſo Tonned for the ſecond offence, and ſix pounds for every Bar<g ref="char:EOLhyphen"/>rell ſo Tonned for the third offence.</p>
+            <p n="8">8. That no manner of perſon convey, or cauſe to be conveied out of the For<g ref="char:EOLhyphen"/>tifications of <hi>Dublin,</hi> any Malt without Licence or Ticquet from the ſaid Impoſt-office, that the ſame ſhall be admitted to be conveyed to a place licenced for Brew<g ref="char:EOLhyphen"/>ing, or otherwiſe to pay ten ſhillings <hi>per</hi> Barrell Impoſt, for all the Malt that ſhall be ſo conveyed out of the ſaid fortifications upon paine of five pounds <hi>per</hi> Barrell for every default.</p>
+            <p n="9">9. That euery buyer of any forraigne Beere imported into this Harbour, and Cellered, fetch his Ticquet from the Impoſt-office, of the true quantity of the Beere ſo by him bought, and pay the Impoſt ſet upon the ſame, and if the Proprie<g ref="char:EOLhyphen"/>tor do otherwiſe diſpoſe thereof, he is to pay the Impoſt for the ſame, upon paine of forty ſhillings for every Barrell ſo diſpoſed of.</p>
+            <p n="10">10. That all Ale and Beere be tonned in Hogſheads, Barrells, halfe Barrells, and quarter Barrells, of thirty two gallons the Barrell, and no other proportions upon paine of forfeiture of the Ale and Beere that ſhall be tonned in any other veſſells, and the ſame veſſells to be knockt in peeces.</p>
+            <p n="11">11. That all Brewers, Merchants, Retailers, and private houſe keepers, and all others that have Beere, Ale or Wine in their houſes, Cellers, or ſtore houſes, doe within three dayes after the publiſhing of this proclamation bring into the ſaid-Impoſt-office, a true note of the quantity, and quality of the Beere, Ale, and Wines they have in their Houſes, Cellars, or Store-houſes, and that they that intend to ſpend, or retaile the ſame, pay for the ſame the Moyety of the Impoſt ſet upon ſuch Ale, Beere and Wines, reſpectively, as are hereafter to be bought of Marchant or the Brewer, upon paine of forty ſhillings for every Barrell of Ale or Beere, and ſo for other proportions after the ſame rate, and upon paine of five pounds for every Hog<g ref="char:EOLhyphen"/>ſhead of French Wines, and ſo rateably for all other gages, and upon paine of ſix ſhillings for every gallon of Spaniſh Wine that ſhall not be ſo certified.</p>
+            <pb n="6" facs="tcp:155361:4"/>
+            <p n="12">12. That all Brewers that do not retaile Beere or Ale, ſhall be conſidered of by Commiſſioners in that behalfe, to be authorized for the Beere and Ale they ſpend in their own houſes, according to the diſcretion of the ſaid Commiſſioners.</p>
+            <p n="13">13. That all Marchents and others that ſhall import any Wines or Beere in<g ref="char:EOLhyphen"/>to this harbor of <hi>Dublin,</hi> or within ſix miles of the ſame, do before the landing thereof deliver a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e note into the hands of the Impoſt-maſters, of the quality, and quantity of the Wines and Beere, he and they intend to land, and to land no more then he or they ſhall ſo certifie, upon paine of forfeiture of the Wines &amp; Beere ſo landed, and not certified.</p>
+            <p n="14">14. That no Merchant or other Seller of Wines or Beere by whole ſale, diſpoſe, ſell or ſuffer to go forth of his houſe, Cellar or Store-houſe any Wines, French or Spaniſh, or any Beere, before the Impoſt thereof be paid and a Billet or Ticquet thereof obtained from the ſaid Impoſt-office, upon paine of ten pounds for every Hogſhead of French Wine twelve ſhillings for every Gallon of Spaniſh Wine, and forty ſhillings for every Barrell of Beere ſo deliverd without Ticquet, and ſo ratably for greater or leſſer quantities.</p>
+            <p n="15">15. That no manner of perſons receive or cauſe to be received into his or any other houſe any Wines of what ſort ſoever, untill ſuch time as the Impoſt thereof be paid, and a Ticquet or Billet for the payment thereof obtained from the Impoſt-maſters, upon paine of ten pounds for every Hogſhead of French Wine, and 12. ſhillings for every gallon of Spaniſh Wine receive without Ticquet, and ſo ratably for greater or leſſer quantities.</p>
+            <p n="16">16. That no Merchant Vintner or other, ſell any Wine by whole ſale, or re<g ref="char:EOLhyphen"/>taile, before ſuch time as his name be entred in the ſaid Impoſt-office, and there re<g ref="char:EOLhyphen"/>ceive admittance for the ſame, upon paine of five pounds.</p>
+            <p n="17">17. That all Merchants and others, that have, or ſhall have any wines to ſell, and ſhall not retaile the ſame, ſhall be rated, and conſidered of by the ſaid Commiſſi<g ref="char:EOLhyphen"/>oners according to their diſcretions, both for the Wines which ſhall be ſpent in their Houſes, and the Lecage.</p>
+            <p n="18">18. That all Vintners and others that ſhall retaile Wines ſhall be in like manner conſidered of by the ſaid Commiſſioners for their ſpending and Lecage wine, ac<g ref="char:EOLhyphen"/>cording to the diſcretions of the ſaid Commiſſioners.</p>
+            <p n="19">19. That no Diſtiller of <hi>Aquavitae</hi> or hot waters, or any other importing the ſame by Sea or land, by way of Merchandize, doe ſell or retaile any <hi>Aquavitae</hi> or hot waters under the quantity of one whole gallon at a time, unleſſe the Impoſt be firſt payd, and a Ticquet thereof obtained from the Impoſt-office, upon paine of ten ſhillings for every gallon ſo ſold.</p>
+            <p n="20">20. That no Retailer or other doe buy the quantity of a gallon or more of any <hi>Aquavitae</hi> or hot waters at any Diſtillers, or of any others, importing the ſame as aforeſaid, and that ſell the ſame, unleſſe the Impoſt thereof be firſt paid, and a Tic<g ref="char:EOLhyphen"/>quet obtained from the Impoſt-maſters for the payment thereof, upon paine of ten
+<pb n="7" facs="tcp:155361:4"/>ſhillings for every gallon of <hi>Aquavitae</hi> or hot waters ſo bought.</p>
+            <p n="21">21. That all ſuch perſons as have <hi>Aquavitae</hi> or hot waters in their houſes, Cellars or Shops to ſell, doe within three dayes after the puliſhing of this Proclamation, deliver into the Impoſt-office a true note of what quantity of <hi>Aquavitae</hi> or hot wa<g ref="char:EOLhyphen"/>ters they have in their houſes, Cellars, or Shops, and pay the Moyety of the Im<g ref="char:EOLhyphen"/>poſt ſet upon <hi>Aquavitae</hi> and hot waters, hereafter to be diſtilled, and ſold upon paine of ten ſhillings for every gallon of <hi>Aquavitae</hi> and hot waters that are in the ſaid houſes, Cellars or Shops and not ſo certified.</p>
+            <p n="22">22. That no manner of perſon whatſoever ſell any <hi>Aquavitae</hi> or hot waters by whole ſale or retaile, untill ſuch time as his name bee entred into the ſaid Impoſt-office, and there receive admittance for the ſame, upon paine of five pounds.</p>
+            <p n="23">23. That all Butchers and others, that ſhall ſlaughter any kind or ſort of Cattle before mentioned to ſell, doe before he or they ſlaughter any beaſt, enter into the ſaid Impoſt-office, the number and kinds of Cattle or beaſts, that hee or they in<g ref="char:EOLhyphen"/>tend to ſlaughter, and pay the Impoſt for the ſame, and obtaine a Ticquet thereof from the Impoſt-office upon paine of five poundes for every Oxe, Bull, Cow, Steere and Bullock, and upon paine of three pounds for every Calfe, and twenty ſhillings for every Sheepe, Swine, Goat, Lamb, Kid ſo ſlaughtered.</p>
+            <p n="24">24. That no manner of perſon or perſons whatſoever ſlaughter any of the ſaid kindes of Cattle or beaſts before mentioned, either to ſalt up for his owne uſe, or to ſpend, or eate freſh in his owne houſe, untill ſuch time as the number and kindes of ſuch Cattle or beaſts, as he or they intend to Slaughter, be firſt entred into the ſaid Impoſt-office, and the Impoſt ſet upon the ſame paid, and a Ticquet thereof obtai<g ref="char:EOLhyphen"/>ned from the ſaid Impoſt-office, upon paine of five pounds for every Oxe, Bull, Cow, Steere &amp; Bullock, &amp; upon paine of three pounds, for every Calfe, and upon paine of twenty ſhillings, for every Sheepe, Swine, Goat, Lambe and Kidd, ſo ſlaughtered.</p>
+            <p n="25">25. That all manner of perſons that ſhall kill, or ſlaughter any of the kindes of Cattle, or Beaſts, before mentioned, within this City or Suburbs of <hi>Dublin</hi> or within ſixe miles of the ſame, or that ſhall bring or ſend any of the ſaid kinds of Cattle, or Beaſts, into this Citty or Suburbs ready killed, to be ſold, or ſalted up, doe before the ſale, or ſlaughtering of ſuch Beaſts, enter the number and kindes of the ſame, ſo be ſold or ſlaughtered, in the ſaid Impoſt-office, and pay Impoſt for the ſame, after the ſame rate, as is hereby appointed to be paid, for Cattle ſlaugh<g ref="char:EOLhyphen"/>tered by the Butcher, and obtaine a Ticquet from the Impoſt-office for the ſame, upon paine of five pounds for every Oxe, Bull, Cow, Steere and Bullock, and upon paine of three pounds for every Calfe, and upon paine of twenty ſhillings for every Sheepe, Swine, Goat, Lambe, and Kidd ſo ſlaughtered or ſold.</p>
+            <p n="26">26. That all the paines, penalties, and forfeitures hereby impoſed, or ſet upon ſuch as ſhall offend in any of the before mentioned premiſſes, bee leavied upon the goods and chattles of the offenders, and to be paid to the ſaid Impoſt-maſters, and
+<pb n="8" facs="tcp:155361:5"/>the one moſety thereof by them given to the informer, and the other to be paid to His Maj<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſties Vice-Treaſurer and Treaſurer at Wars, to be by him iſſued out and accompted for, to the uſe of the Army in manner and forme aforeſaid. And Wee require the Major and Sheriffes of the City of <hi>Dublin,</hi> to cauſe this Proclamation to be forthwith publiſhed and Proclaimed, thorowout this City and Suburbs of <hi>Dublin.</hi>
+            </p>
+            <closer>
+               <dateline>Given at His Maieſties Caſtle of <hi>Dublin,</hi> 
+                  <date>the 24. day of <hi>June. 1643.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>R. Bolton. Canc.</item>
+                     <item>La. Dublin.</item>
+                     <item>Ormond</item>
+                     <item>Roſcomon.</item>
+                     <item>Moore.</item>
+                     <item>Edw. Brabazon.</item>
+                     <item>Ant. Midenſis.</item>
+                     <item>Cha. Lambert.</item>
+                     <item>Ad. Lofius.</item>
+                     <item>Geo Shurley.</item>
+                     <item>W. Parſons.</item>
+                     <item>Gerrard Lowther.</item>
+                     <item>I. Temple.</item>
+                     <item>Tho. Rotherham.</item>
+                     <item>Fr. Willoughby.</item>
+                     <item>Tho. Lucas.</item>
+                     <item>Ia. Ware.</item>
+                     <item>G. Wentworth.</item>
+                     <item>Rob. Meredith.</item>
+                  </list>
+               </signed>
+            </closer>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>This is Licenced and entred into the Regiſter Booke of the Company of Stationers according to Order.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
